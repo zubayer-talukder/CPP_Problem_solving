@@ -1,5 +1,8 @@
-#include<iostram>
+#include<iostream>
 using namespace std;
  int main(){
-    int a;
- }23
+    bool p = false;
+    bool q = false;
+    bool r = true;
+    cout<<( p == q == r );
+ }
