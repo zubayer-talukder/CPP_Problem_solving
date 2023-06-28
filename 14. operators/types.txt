@@ -1,0 +1,7 @@
+operators:
+1. Arithmetic operators: + , - , * , /
+2. Relational operators: Is Equal to (==), Not Equals To (!=), Greater than (>), Less Than (<) ,
+                         Greater Equal To (>=) , Less Equals to (<=)
+3. Logical operators (If else )
+4. Assignment operators ( = , += , -= , /= , *= , %= )
+5. Bitwise operators (Bit manipulation)
